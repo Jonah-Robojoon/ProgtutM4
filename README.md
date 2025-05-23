@@ -14,7 +14,7 @@
 [MovementScore Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/GameManager.cs)
 
 # lesson 4: Scene Swich
-![movementScore Animation](Scene Swich.gif)
+![movementScore Animation](swichScene.gif)
 
 [GameManager Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/GameManager.cs)
 
