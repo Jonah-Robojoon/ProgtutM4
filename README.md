@@ -12,3 +12,10 @@
 ![movementScore Animation](scoreMovement.gif)
 
 [MovementScore Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/GameManager.cs)
+
+# lesson 4: Scene Swich
+![movementScore Animation](Scene Swich.gif)
+
+[GameManager Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/GameManager.cs)
+
+[PlayerControl Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/PlayerControl.cs)
