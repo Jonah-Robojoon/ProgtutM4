@@ -19,3 +19,19 @@
 [GameManager Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/GameManager.cs)
 
 [PlayerControl Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/PlayerControl.cs)
+
+# lesson 5: Coin Manager
+![CoinManager Animation](ProgTut5Coincollect.gif)
+
+[ScoreManager Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/ScoreManager.cs)
+
+[PlayerMove Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/PlayerMove.cs)
+
+# lesson 6: lerps
+![CoinManager Animation](ProgTut5Coincollect.gif)
+
+[FollowAndReturn Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/FollowAndReturn.cs)
+
+[Bullet Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/bulletScript.cs)
+
+[BulletFire Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/BulletsFire.cs)
