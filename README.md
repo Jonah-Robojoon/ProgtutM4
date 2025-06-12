@@ -28,7 +28,7 @@
 [PlayerMove Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/PlayerMove.cs)
 
 # lesson 6: lerps
-![CoinManager Animation](ProgTut5Coincollect.gif)
+![CoinManager Animation](Progtut6Lerps.gif)
 
 [FollowAndReturn Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/FollowAndReturn.cs)
 
