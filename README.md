@@ -16,6 +16,8 @@
 # lesson 4: Scene Swich
 ![movementScore Animation](swichScene.gif)
 
+SceneSwitchButton = Space
+
 [GameManager Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/GameManager.cs)
 
 [PlayerControl Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/PlayerControl.cs)
