@@ -20,6 +20,8 @@
 
 [PlayerControl Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/PlayerControl.cs)
 
+[SceneSwitch Script](https://github.com/Jonah-Robojoon/ProgtutM4/blob/main/Assets/scripts/SceneSwitcher.cs)
+
 # lesson 5: Coin Manager
 ![CoinManager Animation](ProgTut5Coincollect.gif)
 
